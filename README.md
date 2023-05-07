@@ -1,7 +1,7 @@
 # go-sleep
 Obfuscate and sleep from Cracked5pider's Ekko rewritten in go
 
-This is repo is both a personal excercise and a starter code for whoever doesn't want to rewrite Ekko in Go.
+This repo is both a personal excercise and a starter code for whoever doesn't want to rewrite Ekko in Go.
 
 # Credits
 
